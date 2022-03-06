@@ -430,83 +430,107 @@ insert into user_images values
 insert into user_images values
 	(NULL, './additional-files/images/misc/image1.png', 'No', 1, now()),
     (NULL, './additional-files/images/misc/image9.png', 'No', 1, now()),
+    (NULL, './additional-files/images/misc/image36.png', 'No', 1, now()),
     
     (NULL, './additional-files/images/misc/image2.png', 'No', 2, now()),
     (NULL, './additional-files/images/misc/image17.png', 'No', 2, now()),
+    (NULL, './additional-files/images/misc/image35.png', 'No', 2, now()),
     
     (NULL, './additional-files/images/misc/image3.png', 'No', 3, now()),
     (NULL, './additional-files/images/misc/image5.png', 'No', 3, now()),
+    (NULL, './additional-files/images/misc/image34.png', 'No', 3, now()),
     
     (NULL, './additional-files/images/misc/image4.png', 'No', 4, now()),
     (NULL, './additional-files/images/misc/image16.png', 'No', 4, now()),
+    (NULL, './additional-files/images/misc/image33.png', 'No', 4, now()),
     
     (NULL, './additional-files/images/misc/image5.png', 'No', 5, now()),
     (NULL, './additional-files/images/misc/image1.png', 'No', 5, now()),
+    (NULL, './additional-files/images/misc/image32.png', 'No', 5, now()),
     
     (NULL, './additional-files/images/misc/image6.png', 'No', 6, now()),
     (NULL, './additional-files/images/misc/image3.png', 'No', 6, now()),
+    (NULL, './additional-files/images/misc/image31.png', 'No', 6, now()),
     
     (NULL, './additional-files/images/misc/image7.png', 'No', 7, now()),
     (NULL, './additional-files/images/misc/image12.png', 'No', 7, now()),
+    (NULL, './additional-files/images/misc/image30.png', 'No', 7, now()),
     
     (NULL, './additional-files/images/misc/image8.png', 'No', 8, now()),
     (NULL, './additional-files/images/misc/image25.png', 'No', 8, now()),
+    (NULL, './additional-files/images/misc/image29.png', 'No', 8, now()),
     
     (NULL, './additional-files/images/misc/image9.png', 'No', 9, now()),
     (NULL, './additional-files/images/misc/image4.png', 'No', 9, now()),
+    (NULL, './additional-files/images/misc/image28.png', 'No', 9, now()),
     
     (NULL, './additional-files/images/misc/image10.png', 'No', 10, now()),
     (NULL, './additional-files/images/misc/image7.png', 'No', 10, now()),
+    (NULL, './additional-files/images/misc/image27.png', 'No', 10, now()),
     
     (NULL, './additional-files/images/misc/image11.png', 'No', 11, now()),
     (NULL, './additional-files/images/misc/image35.png', 'No', 11, now()),
+    (NULL, './additional-files/images/misc/image26.png', 'No', 11, now()),
     
     (NULL, './additional-files/images/misc/image12.png', 'No', 12, now()),
     (NULL, './additional-files/images/misc/image26.png', 'No', 12, now()),
+    (NULL, './additional-files/images/misc/image25.png', 'No', 12, now()),
     
     (NULL, './additional-files/images/misc/image13.png', 'No', 13, now()),
     (NULL, './additional-files/images/misc/image14.png', 'No', 13, now()),
+    (NULL, './additional-files/images/misc/image24.png', 'No', 13, now()),
     
     (NULL, './additional-files/images/misc/image14.png', 'No', 14, now()),
     (NULL, './additional-files/images/misc/image33.png', 'No', 14, now()),
     (NULL, './additional-files/images/misc/image21.png', 'No', 14, now()),
     (NULL, './additional-files/images/misc/image11.png', 'No', 14, now()),
+    (NULL, './additional-files/images/misc/image23.png', 'No', 14, now()),
     
     (NULL, './additional-files/images/misc/image15.png', 'No', 15, now()),
     (NULL, './additional-files/images/misc/image24.png', 'No', 15, now()),
+    (NULL, './additional-files/images/misc/image22.png', 'No', 15, now()),
     
     (NULL, './additional-files/images/misc/image16.png', 'No', 16, now()),
     (NULL, './additional-files/images/misc/image10.png', 'No', 16, now()),
+    (NULL, './additional-files/images/misc/image21.png', 'No', 16, now()),
     
     (NULL, './additional-files/images/misc/image17.png', 'No', 17, now()),
     (NULL, './additional-files/images/misc/image27.png', 'No', 17, now()),
+    (NULL, './additional-files/images/misc/image20.png', 'No', 17, now()),
     
     (NULL, './additional-files/images/misc/image18.png', 'No', 18, now()),
-    (NULL, './additional-files/images/misc/image19.png', 'No', 18, now()),
     (NULL, './additional-files/images/misc/image3.png', 'No', 18, now()),
+    (NULL, './additional-files/images/misc/image19.png', 'No', 18, now()),
     
     (NULL, './additional-files/images/misc/image19.png', 'No', 19, now()),
     (NULL, './additional-files/images/misc/image31.png', 'No', 19, now()),
+    (NULL, './additional-files/images/misc/image18.png', 'No', 19, now()),
     
     (NULL, './additional-files/images/misc/image20.png', 'No', 20, now()),
     (NULL, './additional-files/images/misc/image28.png', 'No', 20, now()),
     (NULL, './additional-files/images/misc/image15.png', 'No', 20, now()),
+    (NULL, './additional-files/images/misc/image17.png', 'No', 20, now()),
     
     (NULL, './additional-files/images/misc/image21.png', 'No', 21, now()),
     (NULL, './additional-files/images/misc/image2.png', 'No', 21, now()),
+    (NULL, './additional-files/images/misc/image16.png', 'No', 21, now()),
     
     (NULL, './additional-files/images/misc/image22.png', 'No', 22, now()),
     (NULL, './additional-files/images/misc/image20.png', 'No', 22, now()),
+    (NULL, './additional-files/images/misc/image15.png', 'No', 22, now()),
     
     (NULL, './additional-files/images/misc/image23.png', 'No', 23, now()),
     (NULL, './additional-files/images/misc/image21.png', 'No', 23, now()),
+    (NULL, './additional-files/images/misc/image14.png', 'No', 23, now()),
     
     (NULL, './additional-files/images/misc/image24.png', 'No', 24, now()),
     (NULL, './additional-files/images/misc/image8.png', 'No', 24, now()),
+    (NULL, './additional-files/images/misc/image13.png', 'No', 24, now()),
     
     (NULL, './additional-files/images/misc/image25.png', 'No', 25, now()),
     (NULL, './additional-files/images/misc/image32.png', 'No', 25, now()),
     (NULL, './additional-files/images/misc/image18.png', 'No', 25, now()),
+    (NULL, './additional-files/images/misc/image12.png', 'No', 25, now()),
     
     (NULL, './additional-files/images/misc/image26.png', 'No', 26, now()),
     (NULL, './additional-files/images/misc/image11.png', 'No', 26, now()),
@@ -517,6 +541,7 @@ insert into user_images values
     
     (NULL, './additional-files/images/misc/image28.png', 'No', 28, now()),
     (NULL, './additional-files/images/misc/image29.png', 'No', 28, now()),
+    (NULL, './additional-files/images/misc/image9.png', 'No', 28, now()),
     
     (NULL, './additional-files/images/misc/image29.png', 'No', 29, now()),
     (NULL, './additional-files/images/misc/image18.png', 'No', 29, now()),
@@ -525,25 +550,32 @@ insert into user_images values
     
     (NULL, './additional-files/images/misc/image30.png', 'No', 30, now()),
     (NULL, './additional-files/images/misc/image6.png', 'No', 30, now()),
+    (NULL, './additional-files/images/misc/image7.png', 'No', 30, now()),
     
     (NULL, './additional-files/images/misc/image31.png', 'No', 31, now()),
     (NULL, './additional-files/images/misc/image22.png', 'No', 31, now()),
+    (NULL, './additional-files/images/misc/image6.png', 'No', 31, now()),
     
     (NULL, './additional-files/images/misc/image32.png', 'No', 32, now()),
     (NULL, './additional-files/images/misc/image30.png', 'No', 32, now()),
+    (NULL, './additional-files/images/misc/image5.png', 'No', 32, now()),
     
     (NULL, './additional-files/images/misc/image33.png', 'No', 33, now()),
     (NULL, './additional-files/images/misc/image36.png', 'No', 33, now()),
+    (NULL, './additional-files/images/misc/image4.png', 'No', 33, now()),
     
     (NULL, './additional-files/images/misc/image34.png', 'No', 34, now()),
     (NULL, './additional-files/images/misc/image23.png', 'No', 34, now()),
+    (NULL, './additional-files/images/misc/image3.png', 'No', 34, now()),
     
     (NULL, './additional-files/images/misc/image35.png', 'No', 35, now()),
     (NULL, './additional-files/images/misc/image34.png', 'No', 35, now()),
+    (NULL, './additional-files/images/misc/image2.png', 'No', 35, now()),
     
     (NULL, './additional-files/images/misc/image36.png', 'No', 36, now()),
     (NULL, './additional-files/images/misc/image13.png', 'No', 36, now()),
-    (NULL, './additional-files/images/misc/image19.png', 'No', 36, now());
+    (NULL, './additional-files/images/misc/image19.png', 'No', 36, now()),
+    (NULL, './additional-files/images/misc/image1.png', 'No', 36, now());
     
 CREATE TABLE banned_users (
 	ban_id int unsigned NOT NULL AUTO_INCREMENT,
