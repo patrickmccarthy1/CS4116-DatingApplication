@@ -30,20 +30,20 @@
            <div class="col-lg-7 px-5 pt-5">
              <h1 class="font-weight-bold py-3 ">Spark</h1>
              <h4>Sign into your account! </h4>
-             <form>
+             <form action="login.php" method="post">
                <div class="form-row">
                <div class="col-lg-7">
-                 <input type="email" placeholder="Please enter your E-mail" class="form-control my-3 p-4">
+                <input type="email" id="email" placeholder="Please enter your E-mail" class="form-control my-3 p-4" for="email" name="email">
                </div>
               </div>
               <div class="form-row">
                 <div class="col-lg-7">
-                  <input type="password" placeholder="Please enter your Password" class="form-control my-3 p-4">
+                  <input type="password" id="password" for="password" placeholder="Please enter your Password" class="form-control my-3 p-4" name="password">
                 </div>
                </div>
                <div class="form-row">
                 <div class="col-lg-7">
-                  <button type="button" class="btn1"> Login </button>
+                  <input type="submit" class="btn1" value="Login" name="">
                 </div>
                </div>
                <a href="#">Forgot password</a>
