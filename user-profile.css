@@ -1,0 +1,275 @@
+.container {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.navbar {
+  padding-top: 0em;
+  padding-bottom: 0em;
+}
+
+.navbar-brand {
+  font-size: 3em;
+}
+
+.navbar-toggler-icon {
+  width: 2em;
+  height: 2em;
+}
+
+#nav {
+  background: red;
+}
+
+.nav-item {
+  font-size: 2em;
+}
+
+.col-lg-6,
+.col-lg-3 {
+  border: 2px solid black;
+  padding: 0;
+  overflow: scroll;
+}
+
+.col-12 {
+  border: 2px solid black;
+  padding: 0;
+  text-align: center;
+}
+
+.bold-text {
+  display: inline;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.bold-middle-text {
+  display: inline;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.left-text {
+  display: inline;
+  font-size: 150%;
+}
+
+.middle-text {
+  display: inline;
+  font-size: 150%;
+}
+
+/*change font size*/
+@media screen and (max-width: 1215px) {
+  .bold-text {
+    display: inline;
+    font-weight: bold;
+    font-size: 100%;
+  }
+
+  .bold-middle-text {
+    display: inline;
+    font-weight: bold;
+    font-size: 100%;
+  }
+
+  .left-text {
+    display: inline;
+    font-size: 100%;
+  }
+
+  .middle-text {
+    display: inline;
+    font-size: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .bold-text {
+    display: inline;
+    font-weight: bold;
+    font-size: 150%;
+  }
+
+  .bold-middle-text {
+    display: inline;
+    font-weight: bold;
+    font-size: 150%;
+  }
+
+  .left-text {
+    display: inline;
+    font-size: 150%;
+  }
+
+  .middle-text {
+    display: inline;
+    font-size: 150%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .middle-text {
+    display: inline;
+    font-size: 100%;
+  }
+
+  .bold-middle-text {
+    display: inline;
+    font-weight: bold;
+    font-size: 100%;
+  }
+}
+
+@media screen and (max-width: 310px) {
+  .bold-text {
+    display: inline;
+    font-weight: bold;
+    font-size: 100%;
+  }
+
+  .left-text {
+    display: inline;
+    font-size: 100%;
+  }
+
+  #location-icon {
+    width: 1.2em;
+    height: 1.2em;
+    margin-bottom: 0.5em;
+  }
+}
+
+.thick-border-div {
+  width: auto;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.bordered-div {
+  width: auto;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.user-image {
+  width: 100%;
+  height: 100%;
+}
+
+#profile-frame {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 0;
+  height: 28%;
+  min-width: 190px;
+}
+
+@media screen and (max-width: 767px) and (min-width: 360px) {
+  .profile-frame {
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    padding: 0;
+    height: 40%;
+  }
+}
+
+.frame {
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 0;
+  height: 28%;
+}
+
+@media screen and (max-width: 990px) and (min-width: 800px) {
+  .frame {
+    margin-top: 4em;
+    margin-left: 4em;
+    margin-right: 4em;
+    padding: 0;
+    height: 25%;
+  }
+}
+
+#location {
+  margin-bottom: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+#location-icon {
+  width: 1.5em;
+  height: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+#edit-profile {
+  width: auto;
+  margin-bottom: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-align: center;
+}
+
+#left-div-info {
+  margin-bottom: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.data-row {
+  margin-bottom: 1em;
+  text-align: left;
+  display: flex;
+}
+
+.data-row-title {
+  width: 40%;
+  padding-right: 0.5em;
+}
+
+.rest-of-column {
+  padding: 2em 2em;
+}
+
+.center-bordered-div {
+  width: auto;
+  border: 1px solid black;
+  text-align: left;
+}
+
+.center-box {
+  width: auto;
+  height: 10em;
+  max-height: 10em;
+  border: 2px solid black;
+  text-align: left;
+  margin-bottom: 2em;
+}
+
+.scroll-y {
+  overflow-y: scroll;
+}
+
+.center-tablet {
+  width: 33.33%;
+  height: 100%;
+  border: 1px solid black;
+  text-align: center;
+  line-height: 200%;
+}
+
+.interest-row {
+  height: 33.33%;
+  display: flex;
+}
+
+.display-image {
+  margin-top: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
