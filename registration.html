@@ -31,38 +31,42 @@
              <h1 class="font-weight-bold py-3 ">Spark</h1>
              <h4>Meet your match!</h4>
              <h4>Sign up today </h4>
-             <form>
+             <form action="connect.php" method="post">
                 <div class="form-row">
                     <div class="col-lg-7">
-                      <input type="firstName" placeholder="First name" class="form-control my-3 p-4">
+                      <input type="text" placeholder="First name" class="form-control my-3 p-4" id="firstName" name="firstName">
                     </div>
                    </div>
-                <!-- <div class="form-row">
+                <div class="form-row">
                     <div class="col-lg-7">
-                      <input type="secondName" placeholder="Second name" class="form-control my-3 p-4">
+                      <input type="text" placeholder="Last name" class="form-control my-3 p-4" id="lastName" name="lastName">
                     </div>
-                   </div> -->
+                   </div>
+                   <div class="form-row">
+                    <div class="col-lg-7">
+                      <input type="number" placeholder="Age" class="form-control my-3 p-4" id="age" name="age">
+                    </div>
+                   </div>
                <div class="form-row">
                <div class="col-lg-7">
-                 <input type="email" placeholder="Please enter your E-mail" class="form-control my-3 p-4">
+                 <input type="email" placeholder="Please enter your E-mail" class="form-control my-3 p-4" for="email" id="email" name="email">
                </div>
               </div>
               <div class="form-row">
                 <div class="col-lg-7">
-                  <input type="password" placeholder="Please enter your password" class="form-control my-3 p-4">
+                  <input type="password" placeholder="Please enter your password" class="form-control my-3 p-4" for="password" id="password" name="password">
                 </div>
                </div>
+               <!-- <div class="form-row">
+                <div class="col-lg-7">
+                  <input type="password" placeholder="re-enter password" class="form-control my-3 p-4" for="password" id="repassword">
+                </div>
+               </div> -->
                <div class="form-row">
                 <div class="col-lg-7">
-                  <input type="password" placeholder="re-enter password" class="form-control my-3 p-4">
+                  <input type="submit" class="btn1">
                 </div>
                </div>
-               <div class="form-row">
-                <div class="col-lg-7">
-                  <button type="button" class="btn1"> Login </button>
-                </div>
-               </div>
-               <a href="#">Forgot password</a>
                <p>Already have an account? <a href="login.html">Login here </a></p>
              </form>
            </div>
