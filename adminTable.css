@@ -17,7 +17,7 @@
     vertical-align: middle;   
     height: 80%;
     width: 100%;
-  }
+    }
 
   .searchBox {
     background-image: url('/css/searchicon.png'); /* Add a search icon to input */
@@ -28,7 +28,7 @@
     padding: 12px 20px 12px 40px; /* Add some padding */
     border: 1px solid #ddd; /* Add a grey border */
     margin-bottom: 12px; /* Add some space below the input */
-  }
+    }
   
   .admin-table thead tr {
     background-color: #FF0000;
@@ -37,41 +37,39 @@
     font-weight: bold;
     text-align: center;
     vertical-align: middle;
-  }
+    }
   
   .admin-table th,
   .content-table td {
     padding: 15px 17px;
     text-align: center;
     vertical-align: middle;
-
-  }
+    }
   
   .admin-table tbody tr {
     border-bottom: 1px solid #dddddd;
     text-align: center;
     vertical-align: middle;
-  }
+    }
   
   .admin-table tbody tr:nth-of-type(even) {
     background-color: #f3f3f3;
     text-align: center;
     vertical-align: middle;
-  }
+    }
   
   .admin-table tbody tr:last-of-type {
     border-bottom: 2px solid #FF0000;
     text-align: center;
     vertical-align: middle;
-  }
+    }
   
   .admin-table tbody tr.active-row {
     font-weight: bold;
     color: #FF0000;
     text-align: center;
     vertical-align: middle;
-  }
-
+    }
 
   .Ban {
       background-color: #a09696;
@@ -83,7 +81,7 @@
       font-weight: bold;
       text-align: center;
     vertical-align: middle;
-  }
+    }
 
   .Delete {
     background-color: #a09696;
@@ -95,8 +93,7 @@
     font-size: medium;
     font-weight: bold;
     vertical-align: middle;
-
-}
+    }
 
 .Edit {
     background-color: #a09696;
@@ -108,10 +105,7 @@
     font-size: medium;
     font-weight: bold;
     vertical-align: middle;
-
-}
-
-
+    }
 
 .spark {
      text-align: left;
