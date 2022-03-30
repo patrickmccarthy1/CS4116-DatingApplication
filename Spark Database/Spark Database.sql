@@ -760,7 +760,6 @@ insert into user_images values
 	(NULL, './additional-files/images/misc/image1.png', 1, now()),
 	(NULL, './additional-files/images/misc/image26.png', 1, now()),
 	(NULL, './additional-files/images/misc/image24.png', 1, now()),
-    (NULL, './additional-files/images/misc/image32.png', 1, now()),
 
 	(NULL, './additional-files/images/misc/image2.png', 2, now()),
 	(NULL, './additional-files/images/misc/image12.png', 2, now()),
@@ -769,7 +768,6 @@ insert into user_images values
 	(NULL, './additional-files/images/misc/image3.png', 3, now()),
 	(NULL, './additional-files/images/misc/image29.png', 3, now()),
 	(NULL, './additional-files/images/misc/image7.png', 3, now()),
-    (NULL, './additional-files/images/misc/image24.png', 3, now()),
 
 	(NULL, './additional-files/images/misc/image4.png', 4, now()),
 	(NULL, './additional-files/images/misc/image23.png', 4, now()),
@@ -782,7 +780,6 @@ insert into user_images values
 	(NULL, './additional-files/images/misc/image6.png', 6, now()),
 	(NULL, './additional-files/images/misc/image5.png', 6, now()),
 	(NULL, './additional-files/images/misc/image35.png', 6, now()),
-    (NULL, './additional-files/images/misc/image14.png', 6, now()),
 
 	(NULL, './additional-files/images/misc/image7.png', 7, now()),
 	(NULL, './additional-files/images/misc/image26.png', 7, now()),
