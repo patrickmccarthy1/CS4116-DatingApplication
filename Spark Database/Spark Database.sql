@@ -697,7 +697,7 @@ insert into users_interests values
 
 CREATE TABLE profile_images (
 	image_id int unsigned NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    image_link varchar(100) NOT NULL,
+    profile_image_link varchar(100) NOT NULL,
     user_id int unsigned NOT NULL,
     date_created TIMESTAMP
 );
@@ -744,7 +744,7 @@ insert into profile_images values
 
 CREATE TABLE user_images (
 	image_id int unsigned NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    image_link varchar(100) NOT NULL,
+    user_image_link varchar(100) NOT NULL,
     user_id int unsigned NOT NULL,
     date_created TIMESTAMP
 );
